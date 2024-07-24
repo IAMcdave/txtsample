@@ -1,7 +1,0 @@
-Hi there :) 
-
-If you clicked the github button in a safari browser on a Mac, this file and many other filetypes would be unzipped and opened automatically. 
-
-Many file  types are considered safe by safari and will be unzipped and opened directly by safari, such as movies, videos and images. 
-
-cdave
